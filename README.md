@@ -1,2 +1,2 @@
 # Simp
-A simple note maker
+A simple app to take notes
